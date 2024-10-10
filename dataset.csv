@@ -1,4 +1,4 @@
-ID_Punto_Parada,Latitud,Longitud,Cantidad_Pasajeros,Hora_Pico,Promedio_Espera_Min,Tipo_Parada, 
+ID_Punto_Parada,Latitud,Longitud,Cantidad_Pasajeros,Hora_Pico,Promedio_Espera_Min,Tipo_Parada
 1,40.712.362,-73.712.166,1698,11:00-13:00,13,0,SITP,Sur
 2,40.885.214,-73.789.947,963,11:00-13:00,12,1,SITP,Centro
 3,40.819.598,-73.724.200,842,17:00-19:00,24,5,SITP,Sur
